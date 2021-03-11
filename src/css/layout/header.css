@@ -4,3 +4,9 @@ header{
   align-items: center;
   padding: 37px 128px;
 }
+
+.header__sections{
+  width: 299px;
+  display: flex;
+  justify-content: space-between;
+}
