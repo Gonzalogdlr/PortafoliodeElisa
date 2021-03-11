@@ -2,4 +2,6 @@
 @import './base/typography.css';
 
 @import './layout/header.css';
+@import './layout/hola.css';
 @import './components/button.css';
+@import './components//icon.css';
