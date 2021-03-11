@@ -1,7 +1,4 @@
-button{
-  font-family: 'Oxygen', sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 14px;
-  line-height: 23px;
+.principal{
+  width: 1366px;
+  background: linear-gradient(135deg, #FAD7A1 0%, #E96D71 100%);
 }
