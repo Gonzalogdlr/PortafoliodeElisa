@@ -3,6 +3,7 @@ header{
   justify-content: space-between;
   align-items: center;
   padding: 37px 128px;
+  width: 100%;
 }
 
 .header__sections{

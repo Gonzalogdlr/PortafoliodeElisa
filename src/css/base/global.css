@@ -1,8 +1,8 @@
 
 
 .principal{
-  width: 1366px;
   background: linear-gradient(135deg, #FAD7A1 0%, #E96D71 100%);
+  margin: auto;
 }
 * {
   padding: 0;
