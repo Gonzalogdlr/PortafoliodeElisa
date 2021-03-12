@@ -6,4 +6,6 @@
 @import './layout/section-proyectos.css';
 @import './components/button.css';
 @import './components//icon.css';
-@import './components/hero.css'
+@import './components/hero.css';
+
+@import './helpers/helpers.css'

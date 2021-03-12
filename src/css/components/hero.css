@@ -1,5 +1,19 @@
 .hero{
   display: flex;
-  padding-left: 126px;
-  padding-right: 113px;
+  align-items: center;
+  justify-content: center;
+}
+.hero--data{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 449px;
+  height: 205px;
+}
+.hero__title{
+  color: #42E2B8;
+  background-color: #0F0A0A;
+  box-shadow: -4px 4px 0px #FFFFFF;
+  padding: 4px 8px;
 }
