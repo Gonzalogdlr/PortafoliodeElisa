@@ -4,6 +4,7 @@
 @import './layout/header.css';
 @import './layout/section-hola.css';
 @import './layout/section-proyectos.css';
+@import './layout/section-hablemos.css';
 @import './components/button.css';
 @import './components//icon.css';
 @import './components/hero.css';
