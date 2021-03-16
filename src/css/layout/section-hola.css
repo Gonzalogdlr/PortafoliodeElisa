@@ -2,7 +2,6 @@
   display: flex;
   margin-top: 75px;
   justify-content: space-between;
-  padding: 0px 128px;
 }
 .data{
   display: flex;
@@ -18,4 +17,11 @@
   margin-top: 16px;
   width: 224px;
   justify-content: space-between;
+}
+@media (max-width: 1200px){
+  .hola-section{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
 }

@@ -1,8 +1,7 @@
 .hero{
   display: flex;
-  align-items: center;
+  /* align-items: center; */
   justify-content: space-around;
-  padding: 0px 128px;
 }
 .hero--data{
   display: flex;
@@ -17,4 +16,12 @@
   background-color: #0F0A0A;
   box-shadow: -4px 4px 0px #FFFFFF;
   padding: 4px 8px;
+}
+@media (max-width: 1200px){
+  .hero{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    gap: 15px;
+  }
 }

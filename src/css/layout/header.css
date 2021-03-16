@@ -2,11 +2,16 @@ header{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 128px;;
+  padding: 15px 0px;;
 }
 
 .header__sections{
   width: 299px;
   display: flex;
   justify-content: space-between;
+}
+@media (max-width: 1000px){
+  .header__sections{
+    display: none;
+  }
 }
