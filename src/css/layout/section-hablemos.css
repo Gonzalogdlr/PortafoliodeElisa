@@ -1,12 +1,27 @@
 .section-hablemos{
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  text-align: center;
+  padding: 0px 411.5px  ;
+  gap: 15px;
+  margin-bottom: 30px;
 }
 .form{
   display: flex;
   flex-direction: column;
   text-align: left;
+  width: 100%;
+  gap: 5px;
+}
+.form input{
+  border: 1px solid #858C94;
+box-sizing: border-box;
+border-radius: 8px;
+}
+.form textarea{
+  border: 1px solid #858C94;
+  box-sizing: border-box;
+  border-radius: 8px;
+  width: 543px;
+  height: 134px;
 }

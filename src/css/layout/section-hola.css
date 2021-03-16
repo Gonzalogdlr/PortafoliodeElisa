@@ -2,13 +2,13 @@
   display: flex;
   margin-top: 75px;
   justify-content: space-between;
+  padding: 0px 128px;
 }
 .data{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   padding: 0px;
-  margin-left: 126px;
 }
 .data__content{
   width: 449px;
