@@ -3,3 +3,10 @@
   justify-content: space-between;
   width: 83%;
 }
+@media (max-width: 760px){
+  .group-separate{
+    flex-direction: column-reverse;
+    gap: 10px;
+    width: 100%;
+  }
+}

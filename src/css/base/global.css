@@ -13,3 +13,7 @@
 html{
   background: black;
 }
+@media (max-width: 1200px){
+  .principal{
+    padding: 0px 10px;
+  }

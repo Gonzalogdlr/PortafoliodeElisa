@@ -1,6 +1,6 @@
 .hero{
   display: flex;
-  /* align-items: center; */
+  align-items: center;
   justify-content: space-around;
 }
 .hero--data{
@@ -8,8 +8,7 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-  width: 449px;
-  height: 205px;
+  gap: 10px;
 }
 .hero__title{
   color: #42E2B8;
@@ -22,6 +21,7 @@
     display: flex;
     flex-direction: column-reverse;
     justify-content: center;
+    align-items:unset;
     gap: 15px;
   }
 }
